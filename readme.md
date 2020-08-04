@@ -26,8 +26,8 @@
 - [Battle Goal Generator](http://rastrillo.synology.me:3838)
 
 ### Virtual Cards
-- [Handkartenverwaltung](https://asgrabowski.github.io/)
-- [Handkartenverwaltung für freigeschaltete Klassen](https://www.gloomhaven-deck.com/#)
+- [character action cards manager 1](https://asgrabowski.github.io/)
+- [character action cards manager 2](https://www.gloomhaven-deck.com/#)
 - [Gloomy Companion: Monster Cards](https://johreh.github.io/gloomycompanion/)
 
 ### Battle Goals and Personal Goals
