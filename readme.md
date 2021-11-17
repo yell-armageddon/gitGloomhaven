@@ -23,7 +23,7 @@
 - [Item Database](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5IjoxLCJpdGVtIjpbXSwiaXRlbXNJblVzZSI6e30sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJsaXN0IiwiZW5hYmxlU3RvcmVTdG9ja01hbmFnZW1lbnQiOmZhbHNlLCJsb2NrU3BvaWxlclBhbmVsIjpmYWxzZX0=)
 
 ### Battle Goals and Personal Goals
-- [Battle Goal Generator](http://rastrillo.synology.me:3838)
+- [Battle Goal Generator](https://www.tristanpendergrass.com/battle-objectives/)
 
 ### Virtual Cards
 - [character action cards manager 1](https://asgrabowski.github.io/)
